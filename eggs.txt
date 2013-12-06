@@ -1,0 +1,10 @@
+MySQL-python==1.2.4
+Paver==1.2.1
+PyYAML==3.10
+numpy==1.8.0
+peewee==2.1.6
+scikits.crab==0.1
+scikits.learn==0.8.1
+scipy==0.13.1
+tornado==3.1.1
+wsgiref==0.1.2
