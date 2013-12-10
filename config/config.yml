@@ -1,5 +1,5 @@
 app:
-    port: 3000
+    port: 3001
 database:
     host: 192.168.10.10
     name: co_op_prod

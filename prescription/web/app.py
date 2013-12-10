@@ -1,4 +1,4 @@
-from prescription.service import ItemRecommendationController, UserRecommendationController, RecommendationsBuildController
+from prescription.controllers import ItemRecommendationController, UserRecommendationController, RecommendationsBuildController
 from prescription.service.models import MysqlConnectionManager
 from config import load, config
 from tornado.ioloop import IOLoop
